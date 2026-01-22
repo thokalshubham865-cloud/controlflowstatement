@@ -1,7 +1,7 @@
 
 public class MainClassJava {
 
-	public static void main (String []arggs) {
+	public static void main (String []args) {
 	
 	          Car bmw = new Car ();
 	          bmw.carRunning();
@@ -24,3 +24,4 @@ public class MainClassJava {
 	      
 	  }
    }
+
